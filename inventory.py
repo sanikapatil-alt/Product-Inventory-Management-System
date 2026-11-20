@@ -1,7 +1,7 @@
 import logging
 
 logging.basicConfig(
-    filename="inventory.log",
+    filename="Application.log",
     level=logging.DEBUG,
     format="%(asctime)s - %(levelname)s - %(message)s",
 )
